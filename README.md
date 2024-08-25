@@ -1,7 +1,7 @@
 # House Price Prediction
 
 ## Overview
-This project focuses on predicting house prices using various regression models. The goal is to evaluate model performance and identify the optimal model for accurate predictions.
+This project focuses on predicting house prices using various regression models. The goal is to evaluate model performance and identify the optimal model for accurate predictions. Dataset can be gotten here: https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ## Objectives
 - Clean and preprocess the housing data.
